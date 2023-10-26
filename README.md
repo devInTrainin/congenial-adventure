@@ -35,3 +35,8 @@ Repository of code that I have made within ITP
 - Reading the dataframe and cleaning the addresses given
   - this one reiterates over the whole dataset for my part, and then figures out within the addresses which one is the one to keep, either the main address or the secondary address
   
+## Week 5
+- 30-8 - doing the intern work of attaching the two sheets.ipynb
+  - We are working with poskod.csv in which that we are taking the poskod and manipulating it to pair it with the master csv.
+- New FOM list, to combine with the final one (29 - 8)
+  - 
