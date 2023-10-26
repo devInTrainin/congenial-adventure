@@ -23,3 +23,15 @@ Repository of code that I have made within ITP
   - this is the file in which we start using the code to directly manipulate the master list to fix the names and addresses.
     - some stuff that we do is fixing the names from online, as well as addresses and the company ID.
     - This file is also the making of the final dataset from 8 faculties, saving it into a file named master_df
+
+## Week 4
+- 22-8 - intern.ipynb
+  - this file is the start of manipulating the data which is already paired with jobstreet. The main reasoning for doing this is to see if we can figure out which of the names has duplicates within the set
+- 23-8 finishing work
+  - this code simply looks at the code for a dataset and sees which both the main address and secondary address, then decides which one is the one to be kept.
+    - This is because the addresses sometimes have duplicates and as such needs to be validated on which one is the proper one.
+- 24-8 make pie chart smile
+  - this file simply looks at the dataset that we have compiled together and makes graphs, both bar charts as well as pie charts and
+- Reading the dataframe and cleaning the addresses given
+  - this one reiterates over the whole dataset for my part, and then figures out within the addresses which one is the one to keep, either the main address or the secondary address
+  
