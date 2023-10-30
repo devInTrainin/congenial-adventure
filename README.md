@@ -75,3 +75,10 @@ Repository of code that I have made within ITP
   - This folder shows the implementation of MMU logo as well as consolidating some of the code in a more cohesive manner.
 - Test pair with geocode.ipynb
   - This file shows the implementation of the code in which we pair the company address data, with manual changing of problematic addreses
+
+## Week 10
+- Hamid's work
+  - This folder shows the work done by the intern Hamid, and my testing of its work. Its should be the one which adds more features inside the pushpins so that we can see more information when we click on the pushpins
+- Sample_Streamlit Map Plot.zip
+  - An old implementation of the streamlit map application
+- 
