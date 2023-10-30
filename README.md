@@ -2,6 +2,9 @@
 Repository of code that I have made within ITP
 
 - This is a repository of the code I have made within the 13 weeks that I was assigned inside GLIE. The code will be pretty rough, but I will document it by week within this README file
+- My personal branch impementation of the code is always found in: https://github.com/devInTrainin/symmetrical-disco
+- My branch of implementation is there inside : https://symmetrical-disco-tbn5omdg6dgvpohpga3yrx.streamlit.app/
+- The team's implementation of the code is found inside : https://symmetrical-disco-uzipvbamdwegcydzfwgszt.streamlit.app/Search_Companies
 
 ## Week 1
 - Untitled.ipynb
