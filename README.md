@@ -69,3 +69,9 @@ Repository of code that I have made within ITP
 - Input FIST data folder
 - Input FOM data folder
  - These two folders show the methodology in implementing new datasets into the old code, to add it inside the main dataset
+
+## Week 9
+- companylist1-main (1)
+  - This folder shows the implementation of MMU logo as well as consolidating some of the code in a more cohesive manner.
+- Test pair with geocode.ipynb
+  - This file shows the implementation of the code in which we pair the company address data, with manual changing of problematic addreses
