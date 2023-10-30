@@ -39,4 +39,8 @@ Repository of code that I have made within ITP
 - 30-8 - doing the intern work of attaching the two sheets.ipynb
   - We are working with poskod.csv in which that we are taking the poskod and manipulating it to pair it with the master csv.
 - New FOM list, to combine with the final one (29 - 8)
-  - 
+  - This code shows how we do the cleaning code, for only one faculty. This one being new FOM, which was given to us later on, on Week 5
+- 30-8_40k_to_50k_geocoded.xlsx & other xlsx with the poskod data
+  - This is the work done in which we added the poskod towards the geolocating using Awesome Table
+  - The main limit for our student emails is 10k rows, with normal emails capping at 1k rows.
+  - We feed it manually to output the data that we want, which is the rows for addresses, with the lat/long data
