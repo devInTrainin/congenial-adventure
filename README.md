@@ -61,4 +61,11 @@ Repository of code that I have made within ITP
   - This file shows my implementation of the heatmap, with changing the sliding scales to ensure the companies are within a good scale to not lose information during the heatmap
 - Streamlit map plot
   - This is the method on which we manipulate the map data to attach the pushpins as well as the choropleth inside the geojson map
-- 
+
+## Week 8
+- Combine inside streamlit folder
+  - This folder has a number of code inside it, with some basic charts to be put inside the website, as well as some map testing
+  - it also has one of the implementations of the streamlit inside it, with the folder 'Thursday new streamlit'
+- Input FIST data folder
+- Input FOM data folder
+ - These two folders show the methodology in implementing new datasets into the old code, to add it inside the main dataset
