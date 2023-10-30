@@ -44,3 +44,12 @@ Repository of code that I have made within ITP
   - This is the work done in which we added the poskod towards the geolocating using Awesome Table
   - The main limit for our student emails is 10k rows, with normal emails capping at 1k rows.
   - We feed it manually to output the data that we want, which is the rows for addresses, with the lat/long data
+
+## Week 6
+- FINAL_LIST_Processed_with_new_FOM_address.xlsx
+  - this file shows the processed data after adding the newer FOM addreses
+- Folium folder
+  - This folder shows the code as well as the training files we used to teach the other interns on how to both add pushpins as well as how to manipulate data using choropleth as well as heatmaps
+- Poskod file
+  - This file shows the experiment on implementation of the code above onto our code
+ 
