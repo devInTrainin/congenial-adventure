@@ -53,3 +53,12 @@ Repository of code that I have made within ITP
 - Poskod file
   - This file shows the experiment on implementation of the code above onto our code
  
+## Week 7
+- Labuan Johor Terengganu Melaka.ipynb
+  - This file is the part of which I am responsible for, for making the pushpins for the states of labuan, johor, terengganu as well as Melaka.
+  - it shows the basic pushpin application inside the maps, for each of the states
+- Choropleth WIP file
+  - This file shows my implementation of the heatmap, with changing the sliding scales to ensure the companies are within a good scale to not lose information during the heatmap
+- Streamlit map plot
+  - This is the method on which we manipulate the map data to attach the pushpins as well as the choropleth inside the geojson map
+- 
